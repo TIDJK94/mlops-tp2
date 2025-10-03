@@ -6,6 +6,7 @@ COPY requirements.txt .
 RUN pip install -r requirements.txt
 
 COPY webservice.py .
+COPY DigiDB_digimonlist.csv .
 
 EXPOSE 8000
 
