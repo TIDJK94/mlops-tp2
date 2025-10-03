@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tidjk/scia/mlops/model-versioning/mlruns/359388047918346438/3eb32afbd6bd4d988a7bb7bdf90a65df/artifacts
+end_time: 1757946072507
+entry_point_name: ''
+experiment_id: '359388047918346438'
+lifecycle_stage: active
+run_id: 3eb32afbd6bd4d988a7bb7bdf90a65df
+run_name: grandiose-kite-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757946065921
+status: 3
+tags: []
+user_id: tidjk

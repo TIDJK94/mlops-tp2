@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/78115e26802a4536a9b303f4282d0e3b/artifacts
+end_time: 1759482228218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78115e26802a4536a9b303f4282d0e3b
+run_name: digimon_hp_predictor
+run_uuid: 78115e26802a4536a9b303f4282d0e3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759482221583
+status: 4
+tags: []
+user_id: tidjk

@@ -1,0 +1,44 @@
+{
+  "feature_names": [
+    "Memory",
+    "Equip Slots",
+    "Lv50 SP",
+    "Lv50 Atk",
+    "Lv50 Def",
+    "Lv50 Int",
+    "Lv50 Spd",
+    "Stage_encoded",
+    "Type_encoded",
+    "Attribute_encoded"
+  ],
+  "label_encoders": {
+    "Stage": [
+      "Armor",
+      "Baby",
+      "Champion",
+      "In-Training",
+      "Mega",
+      "Rookie",
+      "Ultimate",
+      "Ultra"
+    ],
+    "Type": [
+      "Data",
+      "Free",
+      "Vaccine",
+      "Virus"
+    ],
+    "Attribute": [
+      "Dark",
+      "Earth",
+      "Electric",
+      "Fire",
+      "Light",
+      "Neutral",
+      "Plant",
+      "Water",
+      "Wind"
+    ]
+  },
+  "model_type": "random_forest"
+}

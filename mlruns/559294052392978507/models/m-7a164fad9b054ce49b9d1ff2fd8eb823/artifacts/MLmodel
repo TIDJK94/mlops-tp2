@@ -1,0 +1,22 @@
+artifact_path: file:///home/tidjk/scia/mlops/model-versioning/mlruns/559294052392978507/models/m-7a164fad9b054ce49b9d1ff2fd8eb823/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.3.2
+model_id: m-7a164fad9b054ce49b9d1ff2fd8eb823
+model_size_bytes: 732770
+model_uuid: m-7a164fad9b054ce49b9d1ff2fd8eb823
+prompts: null
+run_id: a3bf18e6eff1412ba83775ccc5ca4675
+utc_time_created: '2025-09-15 14:19:17.228309'

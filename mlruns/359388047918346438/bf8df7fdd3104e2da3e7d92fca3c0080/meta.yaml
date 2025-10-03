@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tidjk/scia/mlops/model-versioning/mlruns/359388047918346438/bf8df7fdd3104e2da3e7d92fca3c0080/artifacts
+end_time: 1759482268632
+entry_point_name: ''
+experiment_id: '359388047918346438'
+lifecycle_stage: active
+run_id: bf8df7fdd3104e2da3e7d92fca3c0080
+run_name: big-ram-965
+run_uuid: bf8df7fdd3104e2da3e7d92fca3c0080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759482268621
+status: 4
+tags: []
+user_id: tidjk

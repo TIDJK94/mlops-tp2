@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tidjk/scia/mlops/model-versioning/mlruns/359388047918346438/dadc0bbd12244c9f94bd50e1ae79f7e9/artifacts
+end_time: 1759483137365
+entry_point_name: ''
+experiment_id: '359388047918346438'
+lifecycle_stage: active
+run_id: dadc0bbd12244c9f94bd50e1ae79f7e9
+run_name: gaudy-fox-668
+run_uuid: dadc0bbd12244c9f94bd50e1ae79f7e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759483134045
+status: 3
+tags: []
+user_id: tidjk

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1353cfad3979493aabad6cfb7f31ac3f/artifacts
+end_time: 1759482912992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1353cfad3979493aabad6cfb7f31ac3f
+run_name: rare-mare-140
+run_uuid: 1353cfad3979493aabad6cfb7f31ac3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759482910384
+status: 4
+tags: []
+user_id: tidjk

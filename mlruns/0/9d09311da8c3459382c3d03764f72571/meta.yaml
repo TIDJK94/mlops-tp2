@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9d09311da8c3459382c3d03764f72571/artifacts
+end_time: 1759483002857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d09311da8c3459382c3d03764f72571
+run_name: fun-auk-908
+run_uuid: 9d09311da8c3459382c3d03764f72571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759482998855
+status: 4
+tags: []
+user_id: tidjk

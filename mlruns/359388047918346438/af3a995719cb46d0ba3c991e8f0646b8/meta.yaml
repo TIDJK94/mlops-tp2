@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tidjk/scia/mlops/model-versioning/mlruns/359388047918346438/af3a995719cb46d0ba3c991e8f0646b8/artifacts
+end_time: 1758722950325
+entry_point_name: ''
+experiment_id: '359388047918346438'
+lifecycle_stage: active
+run_id: af3a995719cb46d0ba3c991e8f0646b8
+run_name: ambitious-rat-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758722944564
+status: 3
+tags: []
+user_id: tidjk

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tidjk/scia/mlops/model-versioning/mlruns/559294052392978507/a3bf18e6eff1412ba83775ccc5ca4675/artifacts
+end_time: 1757945960174
+entry_point_name: ''
+experiment_id: '559294052392978507'
+lifecycle_stage: active
+run_id: a3bf18e6eff1412ba83775ccc5ca4675
+run_name: awesome-panda-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757945956623
+status: 4
+tags: []
+user_id: tidjk

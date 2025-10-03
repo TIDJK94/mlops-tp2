@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/906fc55c9e144918affa3423240b292a/artifacts
+end_time: 1759482964221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 906fc55c9e144918affa3423240b292a
+run_name: redolent-ray-197
+run_uuid: 906fc55c9e144918affa3423240b292a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759482960703
+status: 4
+tags: []
+user_id: tidjk

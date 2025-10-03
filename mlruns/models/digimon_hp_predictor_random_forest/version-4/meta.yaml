@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1759483219905
+current_stage: None
+description: null
+last_updated_timestamp: 1759483219905
+name: digimon_hp_predictor_random_forest
+run_id: 2a046cab3da84140bd14b950010c7c91
+run_link: null
+source: file:///home/tidjk/scia/mlops/model-versioning/mlruns/359388047918346438/2a046cab3da84140bd14b950010c7c91/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/tidjk/scia/mlops/model-versioning/mlruns/359388047918346438/2a046cab3da84140bd14b950010c7c91/artifacts/model
+user_id: null
+version: 4

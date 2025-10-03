@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tidjk/scia/mlops/model-versioning/mlruns/359388047918346438/18f2fdbc1da843b1adf351507f01af40/artifacts
+end_time: 1759482298931
+entry_point_name: ''
+experiment_id: '359388047918346438'
+lifecycle_stage: active
+run_id: 18f2fdbc1da843b1adf351507f01af40
+run_name: nimble-stag-556
+run_uuid: 18f2fdbc1da843b1adf351507f01af40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759482291942
+status: 3
+tags: []
+user_id: tidjk

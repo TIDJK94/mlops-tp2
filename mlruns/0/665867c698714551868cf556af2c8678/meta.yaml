@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/665867c698714551868cf556af2c8678/artifacts
+end_time: 1759483043780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 665867c698714551868cf556af2c8678
+run_name: blushing-jay-996
+run_uuid: 665867c698714551868cf556af2c8678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759483040671
+status: 4
+tags: []
+user_id: tidjk

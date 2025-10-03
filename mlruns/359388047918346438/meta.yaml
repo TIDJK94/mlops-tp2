@@ -1,0 +1,6 @@
+artifact_location: file:///home/tidjk/scia/mlops/model-versioning/mlruns/359388047918346438
+creation_time: 1757945987238
+experiment_id: '359388047918346438'
+last_update_time: 1757945987238
+lifecycle_stage: active
+name: digimon_hp_prediction

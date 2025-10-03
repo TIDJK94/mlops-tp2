@@ -1,0 +1,10 @@
+artifact_location: file:///home/tidjk/scia/mlops/model-versioning/mlruns/359388047918346438/models/m-d28fc9e77d8b419cb0d1e5b339265370/artifacts
+creation_timestamp: 1757945989570
+experiment_id: '359388047918346438'
+last_updated_timestamp: 1757945992851
+model_id: m-d28fc9e77d8b419cb0d1e5b339265370
+model_type: null
+name: model
+source_run_id: f555ab1aa1b74970a4e8bc81330afcc7
+status: 2
+status_message: null
